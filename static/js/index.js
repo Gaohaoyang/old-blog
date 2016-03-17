@@ -144,9 +144,9 @@ function generateContent() {
         });
         $('#myAffix').width($('#myAffix').parent().width());
         var maxHeight = $(window).height()-130;
-        console.log(maxHeight);
+        // console.log(maxHeight);
         $('#content .content-text').css('max-height', maxHeight+'px');
-        console.log($(window).height());
+        // console.log($(window).height());
     }
     // console.log("myAffix!!!");
 }
