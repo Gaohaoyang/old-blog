@@ -143,6 +143,10 @@ function generateContent() {
             'data-offset': '10'
         });
         $('#myAffix').width($('#myAffix').parent().width());
+        var maxHeight = $(window).height()-130;
+        console.log(maxHeight);
+        $('#content .content-text').css('max-height', maxHeight+'px');
+        console.log($(window).height());
     }
-    console.log("myAffix!!!");
+    // console.log("myAffix!!!");
 }
