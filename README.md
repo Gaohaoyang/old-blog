@@ -1,3 +1,9 @@
+# Before Abstract 2016.4.14 说明
+
+**这个仓库是用来存放之前的博客主题的，我将在以后使用新的博客主题，风格不变，增加了些功能，并重构了代码。这个仓库留个纪念吧。**
+
+**This repo is used to store the old blog code. I'll use new blog theme, with same style, adding some features, and refactoring the code. So leave a memory of this repo here.**
+
 # Abstract
 
 This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
