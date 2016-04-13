@@ -1,8 +1,8 @@
 # Before Abstract 2016.4.14 说明
 
-**这个仓库是用来存放之前的博客主题的，我将在以后使用新的博客主题，风格不变，增加了些功能，并重构了代码。这个仓库留个纪念吧。**
+**这个仓库是用来存放之前的博客主题的，我将在以后使用新的博客主题，风格不变，增加了些功能，并重构了代码。这个仓库留个纪念吧。以后不再维护这个仓库了。大家可以看我的新的博客主题，在 [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
-**This repo is used to store the old blog code. I'll use new blog theme, with same style, adding some features, and refactoring the code. So leave a memory of this repo here.**
+**This repo is used to store the old blog code. I'll use new blog theme, with same style, adding some features, and refactoring the code. So leave a memory of this repo here. I won't maintain this repo in the future. You can see my new blog theme at [gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
 # Abstract
 
